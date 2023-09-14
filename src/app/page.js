@@ -22,7 +22,7 @@ console.log(message);
 
 
   <form className='flex flex-col justify-center  items-center pt-20 gap-y-4' onSubmit={handleButtonClick}>
-<div className='flex items-center gap-x-2 border border-[#25d366] rounded-lg pl-1 bg-white'>
+<div className='flex items-center gap-x-2 border border-[#25d366] rounded-lg pl-1 pr-2 bg-white'>
 
 <label className='text-xl'>
   +91
